@@ -1,10 +1,16 @@
 Account
 git clone
 configuration
-git add
-git commit
-git push
+git add .  or (index.html)
+git commit -m "message"
+git push -u origin (your branch)
 git remote
 git init
 git status
+git checkout (branch name)
+git checkout -b (branch name)
+git branch
 git pull
+git merge (name of new branch)
+
+
